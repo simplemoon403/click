@@ -1,0 +1,8 @@
+ImageId: 1,0,0, ClickTime: 2024-11-08T13:58:37.935Z, ClickCount: undefined
+ImageId: 0,0,1, ClickTime: 2024-11-08T13:58:39.095Z, ClickCount: undefined
+ImageId: 1,0,0, ClickTime: 2024-11-08T13:58:40.720Z, ClickCount: undefined
+ImageId: 1,0,0, ClickTime: 2024-11-11T12:37:42.804Z, ClickCount: undefined
+ImageId: 1,0,0, ClickTime: 2024-11-11T12:38:01.532Z, ClickCount: undefined
+ImageId: 0,1,0, ClickTime: 2024-11-11T12:38:02.843Z, ClickCount: undefined
+ImageId: 0,0,1, ClickTime: 2024-11-11T12:38:05.069Z, ClickCount: undefined
+ImageId: 0,0,1, ClickTime: 2024-11-11T12:38:06.676Z, ClickCount: undefined
